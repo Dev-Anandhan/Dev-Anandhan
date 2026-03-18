@@ -1,120 +1,105 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=header&text=J.A.R.V.I.S%20SYSTEM&fontColor=00F7FF&fontSize=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dev%20Anandhan%20M&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing+AI+System...;Loading+Neural+Modules...;Activating+Autonomous+Agents...;System+Ready." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+Autonomous+AI+Agents;RAG+Architectures+%7C+Privacy+Tech;From+Code+to+Intelligence" />
 </p>
 
 ---
 
-# 🧠 AI CORE: DEV ANANDHAN
+# 👨‍💻 PROFILE OVERVIEW
 
-```bash
-> boot --system dev.jarvis
-```
+<p align="center">
+  <b>AI Full Stack Engineer</b> specializing in building <b>autonomous AI systems</b>, <b>multimodal RAG pipelines</b>, and <b>privacy-first intelligence platforms</b>.
+</p>
 
-```yaml
-identity: AI Systems Engineer
-mode: Autonomous
-specialization:
-  - Agentic AI Systems
-  - RAG Architectures
-  - Automation Engines
-  - Privacy Intelligence
-
-status: ACTIVE 🚀
-```
+<p align="center">
+  🚀 <b>60% Dev Effort Reduced</b> &nbsp;&nbsp;|&nbsp;&nbsp; 🎯 <b>92% AI Accuracy</b> &nbsp;&nbsp;|&nbsp;&nbsp; ⚙️ <b>40+ Workflows Automated</b>
+</p>
 
 ---
 
 # ⚡ HUMAN → AI TRANSFORMATION
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
+  <img src="https://i.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width="420"/>
 </p>
 
-```diff
-- Traditional Coding
-+ Autonomous AI Systems
-```
+<p align="center"><b>From writing code → building intelligent autonomous systems</b></p>
 
 ---
 
-# ⚙️ SYSTEM MODULES
+# 🚀 FEATURED SYSTEMS
 
-## 🔐 SHADOWLENS.exe
-```bash
-> run shadowlens --mode realtime
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```diff
-+ Detects PII leakage
-+ Tracks hidden data flows
-+ Flags policy violations
-```
+### 🔐 ShadowLens
+<b>AI Privacy Intelligence Platform</b>
 
-accuracy: 92%  
-type: Privacy Intelligence Engine  
+- Detects PII leakage & hidden tracking  
+- Real-time data-flow monitoring  
+- Policy violation detection  
 
----
+🎯 <b>92% Accuracy</b>  
 
-## 🤖 AUTODEV.ai
-```bash
-> execute autodev --full-cycle
-```
+</td>
 
-```diff
-+ Code generation
-+ Automated testing
-+ Deployment orchestration
-```
+<td width="50%" valign="top">
 
-impact:  
--60% manual work  
-+35% reliability  
+### 🤖 AutoDev
+<b>Autonomous AI Developer</b>
 
----
+- AI-powered coding, testing & deployment  
+- Multi-agent orchestration  
+- RAG + vector DB integration  
 
-## 🧠 RAG CORE SYSTEM
-```bash
-> load rag --multimodal
-```
+⚡ <b>-60% manual effort</b>  
 
-```diff
-+ Text / Image / Audio processing
-+ Vector DB retrieval
-+ Offline AI pipeline
-```
+</td>
+</tr>
 
-latency: -30%  
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧠 Multimodal RAG
+<b>Offline Intelligent Retrieval</b>
 
-## 🎤 HIREWISE.bot
-```bash
-> start interview-sim
-```
+- Text, image, audio processing  
+- FAISS-based vector search  
+- Optimized pipeline  
 
-```diff
-+ Voice-based AI interviewer
-+ Resume parsing
-+ Semantic scoring
-```
+⚡ <b>-30% latency</b>  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎤 HireWise AI
+<b>AI Interview Assistant</b>
+
+- Voice-based mock interviews  
+- Resume parsing  
+- Real-time scoring  
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛰️ ARCHITECTURE VIEW
+# 🧩 SYSTEM ARCHITECTURE
 
 ```mermaid
-flowchart TD
-    A[User Input] --> B[AI Processing Layer]
+flowchart LR
+    A[User Input] --> B[Multimodal Processing]
     B --> C[Vector Database]
-    C --> D[LLM Reasoning Engine]
-    D --> E[Agent Decision System]
-    E --> F[Execution Layer]
-    F --> G[Feedback Loop]
+    C --> D[LLM Reasoning]
+    D --> E[Agent Layer]
+    E --> F[Execution]
 ```
 
 ---
@@ -127,7 +112,7 @@ flowchart TD
 
 ---
 
-# 📊 LIVE SYSTEM STATUS
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF"/>
@@ -136,42 +121,16 @@ flowchart TD
 
 ---
 
-# 🧠 PROCESSING CAPABILITIES
+# 🏆 ACHIEVEMENTS
 
-```bash
-> analyze --skills
-```
-
-```diff
-+ Python / JavaScript / Java
-+ React / Node / Express
-+ LangChain / FAISS / Transformers
-+ AWS / GCP / Docker
-```
-
----
-
-# 🏆 SYSTEM ACHIEVEMENTS
-
-```bash
-> fetch achievements
-```
-
-```diff
-+ Hackathon Winner (Internship Awarded)
-+ 500+ Problems Solved (HackerRank Gold)
-+ 150+ LeetCode Problems
-+ 23 Google Skill Boost Badges
-+ Top 32 Finalist – Impactathon
-```
+- 🥇 Hackathon Winner (Internship Awarded)  
+- 🧠 500+ Problems Solved (Gold)  
+- ☁️ 23 Google Skill Boost Badges  
+- 🚀 ISRO Hackathon Shortlisted  
 
 ---
 
 # 🌐 CONNECT
-
-```bash
-> open channels
-```
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
@@ -184,19 +143,12 @@ flowchart TD
 
 ---
 
-# ⚡ SYSTEM MESSAGE
-
-```bash
-> message
-```
-
-```diff
-- I write code
-+ I build autonomous AI systems that replace workflows
-```
-
----
+# ⚡ FINAL MESSAGE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:000000&height=80&section=footer"/>
+<b>I build intelligent systems — not just code.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
