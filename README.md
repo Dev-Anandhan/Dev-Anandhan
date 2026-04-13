@@ -15,19 +15,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d2137,60:0a3d62,100:1a5276&height=220&section=header&text=Dev%20Anandhan%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Autonomous%20Intelligence%20%7C%20Privacy%20Tech&descAlignY=58&descSize=16&descColor=7fb3d3" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════
-     TYPING SVG — FIXED
-     Bugs fixed:
-       • Removed raw emoji from lines param (breaks URL parsing)
-       • Encoded → as %E2%86%92
-       • Encoded — as %E2%80%94
-       • demolab.com is the maintained replacement for deprecated herokuapp
-═══════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&repeat=true&width=860&lines=Building+Autonomous+AI+Agents+%26+Multi-Agent+Systems;Privacy-First+Intelligence+%7C+RAG+Architectures;60%25+Dev+Effort+Reduced+%7C+92%25+AI+Accuracy;From+Writing+Code+%E2%86%92+Building+Intelligence;Multimodal+AI+%7C+Vector+DBs+%7C+LLM+Orchestration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&repeat=true&width=860&lines=Building+Autonomous+AI+Agents+%26+Multi-Agent+Systems;Privacy-First+Intelligence+%7C+RAG+Architectures;60%25+Dev+Effort+Reduced+%7C+92%25+AI+Accuracy;GIS+Pipelines+%7C+Satellite+Imagery+%7C+Explainable+AI;Cloud+Native+%7C+AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes;Multimodal+AI+%7C+Vector+DBs+%7C+LLM+Orchestration" alt="Typing SVG" />
 </p>
 
-<!-- Meta badges — emoji removed from shield labels (causes silent render failures) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dev-Anandhan&label=Profile+Views&color=0d2137&style=flat-square&labelColor=00D4FF" alt="profile views"/>
   &nbsp;
@@ -74,10 +65,6 @@ My work sits at the intersection of:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     IMPACT METRICS — emoji stripped from shields labels (they break)
-═══════════════════════════════════════════════════════════ -->
-
 <h3 align="center">⚡ Impact at a Glance</h3>
 
 <p align="center">
@@ -118,6 +105,27 @@ An end-to-end AI safety framework that monitors, audits, and enforces ethical co
 </td>
 
 <td width="50%" valign="top">
+<h3>🌐 CONTINUUM &nbsp;<img src="https://img.shields.io/badge/V1-Digital%20Substrate-00D4FF?style=flat-square&labelColor=0a0f1e"/></h3>
+<b>Planetary-Scale AI Operating System</b>
+
+A self-organizing, AI-powered global operating system that treats every device, agent, sensor, model, and human intent as a first-class citizen of one intelligent fabric — with cryptographic trust baked in.
+
+- 🪪 Universal Agent Protocol (UAP) — persistent DID-based agent identity with capability-obligation contracts
+- 🌍 Sovereign Compute Mesh — jurisdiction-aware workload scheduling across AWS, Azure & GCP
+- ⚙️ Objective-Validation Runtime — decomposes natural language goals into DAGs of verified agent actions
+- 🔗 Verifiable Trust Graph — every inference & API call cryptographically signed on Hyperledger Fabric
+
+**Stack:** `Python` `LangGraph` `Temporal.io` `Hyperledger Fabric` `Kubernetes` `FastAPI` `MCP`
+
+🎯 **Zero cross-jurisdictional data leakage · Full cryptographic audit trail**
+
+<a href="https://github.com/Dev-Anandhan/continuum"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=flat-square&logo=github&logoColor=black"/></a>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 <h3>🔐 ShadowLens</h3>
 <b>AI Privacy Intelligence Platform</b>
 
@@ -134,9 +142,6 @@ Detects PII leakage, hidden trackers, and data-flow anomalies across live applic
 
 <a href="https://github.com/Dev-Anandhan/shadowlens"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=flat-square&logo=github&logoColor=black"/></a>
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 <h3>🤖 AutoDev</h3>
@@ -156,6 +161,9 @@ A self-operating coding agent that reads requirements, writes tests, implements 
 <a href="https://github.com/Dev-Anandhan/autodev"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=flat-square&logo=github&logoColor=black"/></a>
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 <h3>🧠 Multimodal RAG</h3>
 <b>Offline Intelligent Retrieval Engine</b>
@@ -174,75 +182,26 @@ A fully offline, privacy-preserving RAG pipeline that ingests text, images, and 
 <a href="https://github.com/Dev-Anandhan/multimodal-rag"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=flat-square&logo=github&logoColor=black"/></a>
 </td>
 
-</tr>
-<tr>
-
 <td width="50%" valign="top">
-<h3>🎤 HireWise AI</h3>
-<b>Voice-Powered Interview Intelligence</b>
+<h3>🛰️ Satellite Crop Intelligence &nbsp;<img src="https://img.shields.io/badge/ISRO-National%20Shortlist-FF6B35?style=flat-square&labelColor=0a0f1e"/></h3>
+<b>Deep Learning &amp; GIS Pipeline for Agricultural Satellite Imagery</b>
 
-An AI mock interviewer that listens, evaluates, and coaches candidates with real-time feedback and scoring.
+Engineered a deep learning and GIS pipeline to process agricultural satellite imagery, securing a highly competitive national shortlist position at the ISRO Hackathon.
 
-- 🗣️ Voice-to-text interview simulation
-- 📄 Smart resume parsing & JD matching
-- 📈 Competency scoring with improvement tips
-- 🤖 Domain-specific question generation
+- 🛰️ End-to-end pipeline for processing multi-spectral agricultural satellite imagery
+- 🌾 Geographical crop mapping with high spatial accuracy using TensorFlow & GeoPandas
+- 🔍 Explainable AI (XAI) with SHAP for feature importance interpretation across crop regions
+- 📊 Practical experimentation with XAI to make deep learning decisions transparent & auditable
 
-**Stack:** `React` `Node.js` `Whisper` `GPT-4` `MongoDB`
+**Stack:** `Python` `GeoPandas` `OpenCV` `TensorFlow` `XAI` `SHAP`
 
-<a href="https://github.com/Dev-Anandhan/hirewise-ai"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=flat-square&logo=github&logoColor=black"/></a>
-</td>
+🎯 **National shortlist — ISRO Hackathon**
 
-<td width="50%" valign="top">
-<h3>🐍 GIP &amp; Snake Game &nbsp;<img src="https://img.shields.io/badge/Contribution-00D4FF?style=flat-square&labelColor=0a0f1e"/></h3>
-<b>GitHub Interactive Profile + Animated Snake</b>
-
-Profile gamification — the contribution-eating snake animation combined with interactive profile widgets that bring your GitHub story to life.
-
-- 🐍 Contribution graph consumed by animated snake
-- 🎮 Interactive profile elements with hover effects
-- 📊 Dynamic stats rendered as animated widgets
-- 🎨 Theme-adaptive dark/light mode visuals
-
-**Stack:** `GitHub Actions` `SVG Animation` `Python` `YAML`
-
-<a href="https://github.com/Dev-Anandhan/Dev-Anandhan"><img src="https://img.shields.io/badge/Live%20Profile-00D4FF?style=flat-square&logo=github&logoColor=black"/></a>
+<a href="https://github.com/Dev-Anandhan/satellite-crop-intelligence"><img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=flat-square&logo=github&logoColor=black"/></a>
 </td>
 
 </tr>
 </table>
-
-<br/>
-
----
-
-## 🧩 System Architecture — Autonomous AI Pipeline
-
-```mermaid
-flowchart LR
-    classDef input   fill:#0a3d62,stroke:#00D4FF,color:#fff
-    classDef process fill:#0d2137,stroke:#00D4FF,color:#fff
-    classDef agent   fill:#1a5276,stroke:#7fb3d3,color:#fff
-    classDef output  fill:#0a0f1e,stroke:#00D4FF,color:#00D4FF
-    classDef safety  fill:#7b241c,stroke:#e74c3c,color:#fff
-
-    A["User Input\ntext / voice / image"]:::input
-    B["Multimodal\nProcessor"]:::process
-    C["Vector DB\nFAISS / Qdrant"]:::process
-    D["LLM Reasoning\nGPT-4 / Ollama"]:::process
-    E["Agent Layer\nLangGraph"]:::agent
-    F["SAFEE\nSafety Guardrails"]:::safety
-    G["Tool Execution\nAPIs / Code / Search"]:::agent
-    H["Output\nAction / Response"]:::output
-    I["Audit Log\nExplainability"]:::output
-
-    A --> B --> C --> D --> E
-    E --> F --> G --> H
-    F --> I
-    G --> D
-```
-
-<p align="center"><i>Every agent action passes through SAFEE's ethical guardrail layer before execution</i></p>
 
 <br/>
 
@@ -267,6 +226,8 @@ flowchart LR
   <img src="https://img.shields.io/badge/Qdrant-00D4FF?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/Whisper-00D4FF?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/CLIP-00D4FF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/SHAP-00D4FF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/XAI-00D4FF?style=flat-square&logoColor=black" />
 </p>
 
 <h4 align="center">Frontend / Backend</h4>
@@ -281,18 +242,35 @@ flowchart LR
 
 <h4 align="center">Cloud &amp; DevOps</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,linux&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=00D4FF" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Temporal.io-00D4FF?style=for-the-badge&logoColor=black&labelColor=0a0f1e" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hyperledger%20Fabric-00D4FF?style=for-the-badge&logoColor=black&labelColor=0a0f1e" />
+</p>
+
+<h4 align="center">GIS &amp; Geospatial</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/GeoPandas-00D4FF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-00D4FF?style=flat-square&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/GDAL-00D4FF?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Satellite%20Imagery-00D4FF?style=flat-square&logoColor=black" />
 </p>
 
 <br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB STATS
-     FIXED: streak URL → streak-stats.demolab.com (herokuapp is dead)
-     FIXED: using theme=tokyonight (reliable dark theme, no custom bg needed)
-═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
@@ -325,36 +303,6 @@ flowchart LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     SNAKE  — complete, supports dark/light mode via <picture>
-     Requires: .github/workflows/snake.yml (see companion file)
-═══════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Dev-Anandhan/Dev-Anandhan/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Dev-Anandhan/Dev-Anandhan/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/Dev-Anandhan/Dev-Anandhan/output/github-contribution-grid-snake-dark.svg"
-    />
-  </picture>
-</p>
-
-> 💡 **Setup:** Copy `snake.yml` into `.github/workflows/` in your profile repo, then trigger it once manually from the **Actions** tab. Runs daily at midnight UTC after that.
-
-<br/>
-
----
-
 ## 🏆 Achievements &amp; Highlights
 
 <table align="center" width="90%">
@@ -373,7 +321,7 @@ flowchart LR
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/ISRO-Hackathon%20Finalist-FF6B35?style=for-the-badge&labelColor=0a0f1e"/><br/>
-<sub>🚀 National space-tech shortlisted</sub>
+<sub>🛰️ Deep learning &amp; GIS pipeline for agricultural satellite imagery — national shortlist</sub>
 </td>
 </tr>
 </table>
@@ -423,7 +371,6 @@ flowchart LR
   <i>The future belongs to engineers who build minds, not just machines.</i>
 </p>
 
-<!-- FIXED: footer typing color changed from near-black (#0a3d62) to visible cyan -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+the+intelligent+systems+of+tomorrow+%E2%80%94+today.;Autonomous+%7C+Private+%7C+Accurate+%7C+Safe" />
 </p>
@@ -440,12 +387,5 @@ flowchart LR
   [ ] YOUR_EMAIL       → your contact email
   [ ] YOUR_PORTFOLIO   → portfolio URL (or delete that badge)
   [x] LinkedIn         → dev-anandhan-8685a1322  DONE
-
-  SNAKE SETUP (2 minutes, one-time):
-  1. Create public repo: Dev-Anandhan/Dev-Anandhan
-  2. Copy snake.yml to .github/workflows/snake.yml
-  3. Actions tab → Generate Snake → Run workflow
-  4. SVG auto-appears in the "output" branch
-  5. Refreshes every day at midnight UTC
 ══════════════════════════════════════════════════════════════
 -->
